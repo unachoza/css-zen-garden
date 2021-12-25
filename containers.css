@@ -32,25 +32,55 @@ h1 {
     font-size: 110px;
     line-height: 130%;
     margin-top: -200px;
-    background-color: #dd2d4a;
+    background-color: #dd2d4ae3;
     padding-left: 100px;
-    color: #71a23f
+    color: #71a23f;
 }
-.design-selection{
-    border: solid red 2px;
-    background-color: #046e8f;
+.design-selection {
+    background-color: #046e8feb;
     width: 300px;
-    background-color: #046e8f;
+    height: 1200px;
     margin-top: 200px;
     margin-right: 100px;
-    height: 600px;
     font-size: 20px;
-    padding: 20px 0px 0px 30px;
+    padding: 20px 15px 0px 40px;
 }
-li{
+li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+ul {
+    margin: 50px -45px;
+}
+.sidebar li a:link {
+    color: #2a250b;
+}
+.sidebar li a:visited {
+    color: #444236;
+}
 
+#select {
+    font: normal 1.4em georgia;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    text-decoration: underline;
+    color: #8f1729;
+    margin-bottom: 10px;
+    text-underline-offset: 6px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    line-height: 1.3em;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paragraph {
+    background-color: #95b98a;
+    border: solid black 2px;
+    color: rgb(112 7 112);
+    width: 500px;
+    margin: 150px;
+    font-size: 20px;
+    line-height: 1.5;
+}
 .border-red {
     border: solid red 2px;
 }
