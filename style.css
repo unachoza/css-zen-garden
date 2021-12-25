@@ -27,7 +27,7 @@ p {
 
 a:link { 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #8f1729;
 	}
 a:visited { 
 	font-weight: bold; 
@@ -40,6 +40,7 @@ a:hover, a:focus, a:active {
 	}
 abbr {
 	border-bottom: none;
+	text-decoration: none;
 	}
 
 
@@ -92,8 +93,8 @@ footer a:link, footer a:visited {
 	/* background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center;  */
 	display: block; 
 	padding-top: 5px; 
-	margin-bottom: 5px;
 	list-style-type: none;
+	margin: 0px 35px 0px 0px;
 	}
 .sidebar li a:link {
 	color: #2a250b
